@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi , I'm a computer engineering student <br>
+Hi , I'm Burak Ege. <br>
 
+As a first-grade student in computer engineering, I'm passionate about exploring the world of technology. Currently, I'm diving into the fundamentals of Java at university, eager to grasp its concepts and apply them to real-world projects. My GitHub reflects my journey as I learn and grow in the exciting field of computer engineering.
 
 
 ## 🌐 Socials:
