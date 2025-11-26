@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi , I'm Burak Ege. <br>
 
-As a sophomore studying computer engineering, I am passionate about exploring the world of technology with a special interest in digital forensics. My GitHub reflects my journey as I learn and grow in the exciting field of computer engineering.
+As a junior studying computer engineering, I am passionate about exploring the world of technology with a special interest in digital forensics. My GitHub reflects my journey as I learn and grow in the exciting field of computer engineering.
 
 
 ## 🌐 Socials:
